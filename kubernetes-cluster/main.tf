@@ -8,7 +8,7 @@ terraform {
 }
 
 provider "digitalocean" {
-  token = "a644c11468b3eb2a4d5fa8b67d36073f39b47beaa03d8ad61cd11e8fe02ccb4a"
+  token = "token do"
 }
 
 
